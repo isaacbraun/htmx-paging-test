@@ -1,0 +1,7 @@
+#SouthernFramework.htmx-added {
+  /* opacity: 0; */
+}
+#SouthernFramework {
+  /* opacity: 1; */
+  transition: opacity 0.7s ease-in-out;
+}
